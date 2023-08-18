@@ -41,7 +41,7 @@ Se você deseja contribuir para este repositório, siga as etapas abaixo:
 
 ## Autor
 
-Este curso foi ministrado pelo professor Macoratti esse código foi feito por mim FRancine dos Santos.
+Este curso foi ministrado pelo professor Macoratti e aonde por meio dele foi feito esse repositório por mim, Francine dos Santos.
 
 
 
