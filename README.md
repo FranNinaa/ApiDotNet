@@ -1,46 +1,53 @@
 # Curso Web API ASP .NET Core Essencial (.NET 6)
 
-Este repositório contém o código-fonte e os recursos relacionados ao curso **Web API ASP .NET Core Essencial (.NET 6)**. Neste curso, você aprenderá a criar APIs REST na plataforma .NET usando a ASP .NET Core.
+Bem-vindo ao repositório do **Curso Web API ASP .NET Core Essencial (.NET 6)**! Aqui você encontrará o código-fonte e os recursos relacionados ao curso que fiz, que tem como objetivo ensinar a criação de APIs REST na plataforma .NET usando o **ASP .NET Core**.
 
-## O que você aprenderá
+## Descrição do Curso
 
-Neste curso, você irá:
+O **Curso Web API ASP .NET Core Essencial (.NET 6)** é projetado para fornecer uma compreensão sólida de como criar APIs RESTful usando a tecnologia ASP .NET Core na versão 6. Durante o curso, eu aprendi os conceitos fundamentais de criação de APIs, incluindo roteamento, autenticação, autorização e manipulação de dados.
 
-- Compreender os conceitos fundamentais de REST, JSON e HTTP.
-- Aprender a criar Web APIs no Visual Studio usando ASP .NET Core.
-- Criar Web APIs usando a abordagem Code-First com o Entity Framework Core e aplicando Migrations.
-- Explorar roteamento, filtros, métodos assíncronos, logging e tratamento de erros.
-- Realizar paginação de dados em suas Web APIs.
-- Implementar os padrões Repository e Unit Of Work, utilizando o AutoMapper.
-- Abordar a segurança, incluindo autenticação e autorização com JWT, login e registro.
-- Habilitar o CORS para lidar com requisições de origens diferentes.
-- Realizar o versionamento das APIs e documentá-las usando a Open API.
-- Criar aplicações que consomem a Web API, utilizando Angular, Windows Forms, OData e GraphQL.
+## Tópicos Abordados
+
+O curso abrange os seguintes tópicos:
+
+- Introdução às APIs RESTful e ASP .NET Core.
+- Configuração do ambiente de desenvolvimento.
+- Criação de controladores para gerenciar endpoints da API.
+- Definição de rotas e manipulação de requisições HTTP.
+- Implementação de autenticação e autorização.
+- Integração com bancos de dados usando Entity Framework Core.
+- Manipulação de solicitações e respostas JSON.
+- Boas práticas e padrões na criação de APIs.
+
+## Como Usar Este Repositório
+
+1. Clone este repositório para sua máquina local.
+2. Navegue pelos diretórios para encontrar os projetos relacionados a cada tópico do curso.
+3. Siga as instruções de instalação e execução fornecidas em cada projeto.
 
 ## Pré-requisitos
 
-Antes de começar, é recomendado que você tenha conhecimento básico em programação C# e familiaridade com os conceitos de desenvolvimento web.
-
-## Como usar este repositório
-
-Este repositório está organizado por tópicos, correspondentes às diferentes etapas do curso. Cada tópico possui uma pasta com o código-fonte e recursos relacionados. Siga as instruções abaixo para navegar pelo repositório:
-
-1. Clone este repositório para a sua máquina local usando o seguinte comando:
-
-
-2. Navegue para a pasta correspondente ao tópico que você deseja explorar:
-
-
-3. Siga as instruções específicas dentro de cada pasta para executar e explorar o código relacionado ao tópico.
+Para aproveitar ao máximo este curso, é recomendado ter conhecimento básico em programação e familiaridade com o ambiente .NET. Você também deve ter o [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) instalado em seu sistema.
 
 ## Contribuição
 
-Se você deseja contribuir para este repositório, sinta-se à vontade para criar *pull requests*. Caso tenha encontrado problemas ou queira sugerir melhorias, abra uma *issue* para que possamos discutir.
+Se você deseja contribuir para este repositório, siga as etapas abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para a sua funcionalidade/correção: `git checkout -b minha-feature`
+3. Realize as alterações desejadas e faça commits: `git commit -m 'Minha nova funcionalidade'`
+4. Faça push para a branch: `git push origin minha-feature`
+5. Abra um Pull Request neste repositório.
 
 ## Autor
 
-Este curso foi criado por Francine dos Santos (https://github.com/FranNinaa).
+Este curso foi ministrado pelo professor Macoratti esse código foi feito por mim FRancine dos Santos.
 
-## Licença
 
-Este projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
+---
+
+Aproveite o curso e sinta-se à vontade para explorar o conteúdo deste repositório. Se tiver dúvidas ou sugestões, não hesite em entrar em contato.
+
+**[Seu Nome]**
+Instrutor e Desenvolvedor do Curso
